@@ -56,3 +56,13 @@ img:hover {
   height: 100%;
   width: 100%;
 }
+
+.med {
+  height: 201.5%;
+  width: 201.5%;
+}
+
+.large {
+  height: 303%;
+  width: 303%;
+}
